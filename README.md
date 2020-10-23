@@ -10,4 +10,7 @@ This Frida script helps dynamically identify accessed zip files on external medi
 
 Identify ACE
 
+**Output**
+![alt text](https://github.com/androidmalware/android_frida_scripts/raw/main/doc/file_exists_output.png)
+
 Script was created based on @_bagipro tip - https://twitter.com/_bagipro/status/1319365830728208386
